@@ -1,0 +1,14 @@
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/file_selector_windows_plugin.dll
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/assets/LogoInce.png
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/assets/LogoInceB.png
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/assets/perfil.png
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/assets/~$Matriz%20Valoraci%C3%B3n%20EQ-Comparaci%C3%B3n%202.xlsx
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

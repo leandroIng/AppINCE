@@ -1,0 +1,28 @@
+^C:\USERS\COMPUTO\DESKTOP\APP ACCESO ESTUDIANTES (NO TOCAR)\APP INCE\ACCESO_ESTUDIANTES\BUILD\WINDOWS\X64\CMAKEFILES\8B9EEA4EA978012F3ABD052877CF21D4\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes" "FLUTTER_TARGET=C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9mNjM0NGI3NWRjZjg2MWQ4YmYxZjEzMjI3ODBiODgxMWY5ODJlMzFhLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\COMPUTO\DESKTOP\APP ACCESO ESTUDIANTES (NO TOCAR)\APP INCE\ACCESO_ESTUDIANTES\BUILD\WINDOWS\X64\CMAKEFILES\74FC99D3E2E73C8FCF4A5D628955AFB5\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\COMPUTO\DESKTOP\APP ACCESO ESTUDIANTES (NO TOCAR)\APP INCE\ACCESO_ESTUDIANTES\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/windows" "-BC:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64" --check-stamp-file "C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

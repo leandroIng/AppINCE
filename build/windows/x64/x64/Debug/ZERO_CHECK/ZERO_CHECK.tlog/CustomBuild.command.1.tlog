@@ -1,0 +1,10 @@
+^C:\USERS\COMPUTO\DESKTOP\APP ACCESO ESTUDIANTES (NO TOCAR)\APP INCE\ACCESO_ESTUDIANTES\BUILD\WINDOWS\X64\CMAKEFILES\0999115D8DA254B9BA61F448609FFDF1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/windows" "-BC:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Computo/Desktop/App acceso estudiantes (NO TOCAR)/APP INCE/acceso_estudiantes/build/windows/x64/acceso_estutiantes.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

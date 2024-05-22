@@ -1,0 +1,1 @@
+ C:\\Users\\Computo\\Desktop\\App\ acceso\ estudiantes\ (NO\ TOCAR)\\APP\ INCE\\acceso_estudiantes\\.dart_tool\\flutter_build\\4c514aaf4278993fbc67c2ebda805837\\native_assets.yaml: 

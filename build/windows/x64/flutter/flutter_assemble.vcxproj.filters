@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes\build\windows\x64\CMakeFiles\8b9eea4ea978012f3abd052877cf21d4\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes\build\windows\x64\CMakeFiles\74fc99d3e2e73c8fcf4a5d628955afb5\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Computo\Desktop\App acceso estudiantes (NO TOCAR)\APP INCE\acceso_estudiantes\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4F86F1EA-CC36-3BF4-A939-24AD349DDF43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
